@@ -1,0 +1,38 @@
+p{
+    color:aquamarine;
+}
+body{
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612781705_2-p-goluboi-fon-bez-uzorov-3.jpg);
+}
+.hol:hover{
+    transition: 5s font-size linear;
+}
+.link-text{
+    color:aquamarine;
+    text-decoration: none;
+}
+.hol{
+        text-decoration: none;
+    color:Aquamarine;
+    border:4px DarkCyan solid;
+    border-radius:15px;
+    background-color: DarkCyan;
+}
+.gol{
+        text-decoration: none;
+    color:Aquamarine;
+    border:4px DarkCyan solid;
+    border-radius:15px;
+    background-color: DarkCyan;
+}
+.fol{
+     text-decoration: none;
+    color:Aquamarine;
+    border:4px DarkCyan solid;
+    border-radius:15px;
+    background-color: DarkCyan;
+}
+.silka{
+    text-align:center;
+    border-bottom:2px darkcyan solid;
+}
